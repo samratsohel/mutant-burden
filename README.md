@@ -6,7 +6,7 @@ This repository contains representative simulation and
 analysis codes used in the study of mutant-burden dynamics
 under different population-growth models.
 
-The codes are grouped into three major classes:
+Three codes are there:
 
 ------------------------------------------------------------
 1. DETERMINISTIC WELL-MIXED SYSTEM
